@@ -75,6 +75,20 @@ pip install scikit-learn
 pip install numpy
 ```
 
+** Installation **
+
+1. Clone the Sign Bridge repository to your local machine:
+
+   ```shell
+   git clone https://github.com/yourusername/sign-bridge.git
+
+   cd sign-bridge
+
+   python main.py
+   ```
+
+
+
 
 ## Usage
 
