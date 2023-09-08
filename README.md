@@ -79,13 +79,13 @@ pip install numpy
 
 1. Clone the Sign Bridge repository to your local machine:
 
-   ```shell
-   git clone https://github.com/yourusername/sign-bridge.git
+```shell
+git clone https://github.com/yourusername/sign-bridge.git
 
-   cd sign-bridge
+cd sign-bridge
 
-   python main.py
-   ```
+python main.py
+```
 
 
 
