@@ -74,7 +74,7 @@ pip install mediapipe
 pip install scikit-learn
 pip install numpy
 
-
+```
 **Usage**
 
 ```markdown
