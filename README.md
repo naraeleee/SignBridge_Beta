@@ -77,7 +77,6 @@ pip install numpy
 ```
 **Usage**
 
-```markdown
 ## Usage
 
 The Sign Bridge application provides several modules to help you learn and practice ASL alphabets. Here's a brief overview of how to use each module:
