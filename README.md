@@ -73,3 +73,53 @@ pip install opencv-python
 pip install mediapipe
 pip install scikit-learn
 pip install numpy
+
+
+**Usage**
+
+```markdown
+## Usage
+
+The Sign Bridge application provides several modules to help you learn and practice ASL alphabets. Here's a brief overview of how to use each module:
+
+### Home Screen
+
+The home screen provides options to access different modules: "Learn," "Multiple Choice," "Webcam Quiz," "Sign to Text," and "Text to Sign."
+
+- Click on the buttons to navigate to the respective modules.
+
+### Multiple Choice
+
+In the Multiple Choice module, you'll be presented with an image of an ASL sign for an alphabet.
+
+- Choose the correct alphabet from the multiple-choice options.
+- Click "Next Question" to move to the next question.
+- Your score and correctness will be displayed after each question.
+
+### Learn Alphabets
+
+In the Learn Alphabets module, you can explore ASL alphabets through images and descriptions.
+
+- Use the "Next" button to view different alphabets.
+
+### Webcam Quiz
+
+The Webcam Quiz module uses your webcam to recognize ASL signs you make.
+
+- Follow the on-screen instructions to start the quiz.
+- Sign the displayed alphabet, and the application will provide instant feedback.
+- Use 's' to skip a question and 'q' to end the quiz.
+- After completing the quiz, you will receive your correctness score.
+
+### Sign to Text
+
+In the Sign to Text module, the application translates ASL signs captured through your webcam into text.
+
+- Display an ASL sign, and the application will recognize and display the corresponding text.
+
+### Text to Sign
+
+The Text to Sign module allows you to input text, and the application will display the ASL signs for that text.
+
+- Enter the text you want to see in ASL signs, and click "Translate."
+
