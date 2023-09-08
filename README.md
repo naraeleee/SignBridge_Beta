@@ -73,9 +73,8 @@ pip install opencv-python
 pip install mediapipe
 pip install scikit-learn
 pip install numpy
-
 ```
-**Usage**
+
 
 ## Usage
 
