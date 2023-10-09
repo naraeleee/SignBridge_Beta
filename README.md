@@ -1,5 +1,11 @@
 # Sign Bridge README
 
+<img width="1269" alt="Screenshot 2023-10-09 at 2 45 21 AM" src="https://github.com/naraeleee/SignBridge_Beta/assets/113263597/3d3c4c3b-3813-49e0-b9e4-3a7a7c0cf1da">
+
+
+https://youtu.be/0sWs6AkO8Ps?si=RrS2j61go_Tnr4Rw
+
+
 Sign Bridge is a Python application designed to help users learn and practice American Sign Language (ASL) alphabets through various interactive modules. This README file provides an overview of the application's functionality, its structure, and how to set it up and use it.
 
 ## Table of Contents
