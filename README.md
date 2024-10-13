@@ -1,7 +1,6 @@
 # Sign Bridge README
 
-<img width="1269" alt="Screenshot 2023-10-09 at 2 45 21 AM" src="https://github.com/naraeleee/SignBridge_Beta/assets/113263597/3d3c4c3b-3813-49e0-b9e4-3a7a7c0cf1da">
-
+<img width="472" alt="image" src="https://github.com/user-attachments/assets/0f40e890-2387-44db-b5c1-b4d7331c3265">
 
 https://youtu.be/0sWs6AkO8Ps?si=RrS2j61go_Tnr4Rw
 
